@@ -1,2 +1,2 @@
 # TTS-Simulation
-Medical TTS procedure simulation using the Ultraleap sensore
+Medical TTS procedure simulation using the Ultraleap sensor
